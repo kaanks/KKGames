@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kaanks/KKGames?style=social) ![GitHub forks](https://img.shields.io/github/forks/kaanks/KKGames?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/kaanks/KKGames?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/kaanks/KKGames?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/kaanks/KKGames?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/kaanks/KKGames?style=plastic) ![GitHub issues](https://img.shields.io/github/issues/kaanks/EndlessRoad) 
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/kaanks/KKGames?color=red&style=plastic) -->
  
- <img src="./kk_img/kk_1.png" width="150"  align="right">
+ <img src="./kk_img/kk_3.png" width="150"  align="right">
 
 >#### .A clone of the AA Games
 >#### .
